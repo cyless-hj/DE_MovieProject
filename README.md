@@ -79,7 +79,7 @@
 ### 3-1 REST-API
 ![image](https://user-images.githubusercontent.com/72624263/194676638-a3d4d46a-43a0-4847-a0f6-1a9fec2d476e.png)
 <br>
-추후에 링크 추가 예정 <br>
+
 데이터를 제공하는 백엔드와 로그인정보 세션 등을 관리하는 프론트 서버로 이루어진 분리구조로 구성. <br>
 토큰기반 인증을 통한 보안설정. <br>
 백엔드 서버에서 데이터베이스의 데이터를 직접 제공하는 것이 아닌 JSON형식으로 제공. <br>
@@ -89,7 +89,7 @@
 ![image](https://user-images.githubusercontent.com/72624263/194677165-fc33b7a6-6890-4ec9-9ddd-0611581cc7bd.png)
 ![image](https://user-images.githubusercontent.com/72624263/194677195-90209ad3-ac21-45e5-8b07-b831a1ee1197.png)
 <br>
-추후에 링크 추가 예정 
+
 ## 4. 마무리
 ### 4-1 느낀점
 이서정 : 처음 접한 개념들과 기술을 이용해 팀플을 진행하니 정말 어려우면서도 함께 해나가는게 재밌었습니다. 시간이 조금 더 주어졌으면 하는 아쉬움이 남지만 많이 배운 시간이었던 것 같습니다. <br>
