@@ -73,8 +73,8 @@
 ### 2-5 Airflow
 ![image](https://user-images.githubusercontent.com/72624263/194676491-683b4f9b-f5ff-49c4-8aae-0344e7525a8e.png)
 <br>
-: 순차적으로 진행해야하는 스크립트의 경우 직렬처리. spark session을 사용해야하는 transform의 경우에도 직렬처리 함. 마지막 Data mart는 병렬처리하여 빠르게 끝낼 수 있도록 함.<br>
-매일 새벽 airflow를 돌려 자동으로 데이터를 수집, 적재, 가공 할 수 있게 함.
+: 순차적으로 진행해야 하는 스크립트의 경우 직렬 처리. spark session을 사용해야 하는 transform의 경우에도 직렬 처리. 마지막 Data mart는 병렬 처리하여 빠르게 끝낼 수 있도록 구성.
+매일 새벽 자동으로 데이터를 수집, 적재, 가공 할 수 있도록 스케줄링.
 ## 3. 프로젝트 수행 결과 - 데이터 프로덕트
 ### 3-1 REST-API
 ![image](https://user-images.githubusercontent.com/72624263/194676638-a3d4d46a-43a0-4847-a0f6-1a9fec2d476e.png)
