@@ -20,7 +20,7 @@
 ### 1-4 협업에 사용한 툴
 - slack 
 - trello : https://trello.com/b/w9hAewpb/de3%EC%A1%B0
-- docker : https://hub.docker.com/u/seojeon9
+- docker : https://hub.docker.com/r/jhjzmdk/movie_rest
 
 ### 1-5 기술 스택
 #### ETL 파이프라인
