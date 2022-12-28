@@ -59,7 +59,7 @@
 그래서 3정규화까지 고려하여 진행.
 ![image](https://user-images.githubusercontent.com/72624263/194676044-b9063fbe-7385-4c80-bed0-d70ac38c1031.png)
 <br>
-: 영화 상세정보의 경우 영화 한편에 대하여 장르가 멜로/로맨스와 코미디 두가지고 나타남. 컴퍼티 파라미터도 하나가 아닌 여러값을 보내줌.<br>
+: 영화 상세정보의 경우 영화 한편에 대하여 장르가 멜로/로맨스와 코미디 두가지 나타남. 컴퍼티 파라미터도 하나가 아닌 여러값을 보내줌.<br>
 이런값들을 처리하기 위해 MOVIE_DETAIL과 MOVIE_GENRE, MOVIE_COMPANY와 같이 테이블을 나눠 일대다의 관계로 테이블을 설계.
 ### 2-4 Data Mart
 ![image](https://user-images.githubusercontent.com/72624263/194676150-77148ee0-53c3-4641-9806-027cf7dd2ea1.png)
